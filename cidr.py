@@ -1,7 +1,7 @@
 from ipwhois import IPWhois
 import socket
 
-domain = "newegg.ca"
+domain = " PUT Domain_here....."
 ip = socket.gethostbyname(domain)
 
 obj = IPWhois(ip)
