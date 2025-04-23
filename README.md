@@ -1,1 +1,3 @@
-# get-IP-and-Subnetmask-from-Domain
+# Subnetmask and IP from Domain
+
+This Tool to get IP and subnet mask from domain
